@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+*.tsv
+ping_log.txt
+ping_my_linode_log.txt
